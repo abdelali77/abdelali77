@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Abdelali
+### Hi there 👋, I'm Abdelali
 #### A passionate self-taught developer
 ![A passionate self-taught developer](https://media.tenor.com/JIS_KDKKsgYAAAAd/guaton-computadora.gif)
 
