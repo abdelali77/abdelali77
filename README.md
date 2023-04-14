@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abdelali
 #### A passionate self-taught developer
-![A passionate self-taught developer](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
+![A passionate self-taught developer](https://media.tenor.com/JIS_KDKKsgYAAAAd/guaton-computadora.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=0e75b6&style=flat" alt="abdelali77" /> </p>
 
