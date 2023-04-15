@@ -2,7 +2,6 @@
 #### A passionate self-taught developer
 ![A passionate self-taught developer](https://media.tenor.com/JIS_KDKKsgYAAAAd/guaton-computadora.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=0e75b6&style=flat" alt="abdelali77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelali77" alt="abdelali77" /></a> </p>
 
@@ -20,3 +19,4 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&locale=en&theme=dracula" alt="abdelali77" />
  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=0e75b6&style=flat" alt="abdelali77" /> </p>
