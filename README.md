@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Abdelali
 #### A passionate self-taught developer
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=0e75b6&style=flat" alt="abdelali77" /> </p>
+
 ![A passionate self-taught developer](https://media.tenor.com/JIS_KDKKsgYAAAAd/guaton-computadora.gif)
 
 
@@ -18,5 +21,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali77&langs_count=8&theme=dracula" />
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&locale=en&theme=dracula" alt="abdelali77" />
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=0e75b6&style=flat" alt="abdelali77" /> </p>
