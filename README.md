@@ -18,6 +18,6 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali77&langs_count=8&theme=dracula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali77&langs_count=8&theme=dark" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&locale=en&theme=dracula" alt="abdelali77" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&locale=en&theme=dark" alt="abdelali77" />
