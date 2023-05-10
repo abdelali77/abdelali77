@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Abdelali
-#### A passionate self-taught developer
+### <p align="center"> Hi there 👋, I'm Abdelali </p>
+### <p align="center"> A passionate self-taught developer </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=0e75b6&style=flat" alt="abdelali77" /> </p>
 
