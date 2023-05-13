@@ -15,8 +15,9 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://skillicons.dev">
+    <img align="left" src="https://skillicons.dev/icons?i=js" /><img align="left" src="https://skillicons.dev/icons?i=ts" /><img src="https://skillicons.dev/icons?i=c" />
+  </a>
  <h3 align="left">Frameworks and Libraries:</h3>
  <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
