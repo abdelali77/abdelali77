@@ -23,4 +23,4 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&locale=en&theme=dracula" alt="abdelali77" />
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=dark&bg=2b2d42&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/665679739549384704)
+[![Discord Presence](https://lanyard.cnrad.dev/api/665679739549384704?theme=dark&animated=true&bg=none&hideDiscrim=true)](https://discord.com/users/665679739549384704)
