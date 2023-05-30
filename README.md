@@ -3,14 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=0e75b6&style=flat" alt="abdelali77" /> </p>
 
 <!-- ![A passionate self-taught developer]() -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/665679739549384704?theme=dark&animated=true&hideDiscrim=true)](https://discord.com/users/665679739549384704)
 <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelali77&theme=onestar" alt="abdelali77" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.com/users/665679739549384704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5331" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_abdelali.js/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
@@ -22,5 +17,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali77&langs_count=8&theme=dracula" />
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&locale=en&theme=dracula" alt="abdelali77" />
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/665679739549384704?theme=dark&animated=true&bg=none&hideDiscrim=true)](https://discord.com/users/665679739549384704)
