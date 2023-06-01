@@ -18,8 +18,6 @@
  <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
 ---
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&locale=en&theme=dark" alt="abdelali77" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali77&langs_count=8&theme=dark" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&locale=en&theme=dark" alt="abdelali77" />
 
