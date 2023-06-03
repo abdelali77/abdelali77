@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
-    <img align="left" src="https://skillicons.dev/icons?i=js" /><img align="left" src="https://skillicons.dev/icons?i=ts" /><img align="left" src="https://skillicons.dev/icons?i=c" /><img align="left" src="https://skillicons.dev/icons?i=css" /><img src="https://skillicons.dev/icons?i=html" />
+    <img align="left" src="https://skillicons.dev/icons?i=js" /><img align="left" src="https://skillicons.dev/icons?i=ts" /><img src="https://skillicons.dev/icons?i=c" />
   </a>
  <h3 align="left">Frameworks and Libraries:</h3>
  <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
