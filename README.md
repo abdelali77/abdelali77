@@ -20,4 +20,3 @@
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&locale=en&theme=dark" alt="abdelali77" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali77&langs_count=8&theme=dark" />
-
