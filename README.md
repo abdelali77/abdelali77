@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 ### <p align="center"> Hi there 👋, I'm Abdelali </p>
 ### <p align="center"> A passionate self-taught developer </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=5a189a&style=flat" alt="abdelali77" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=3d5a80&style=flat" alt="abdelali77" /> </p>
 
 <hr />
 
