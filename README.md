@@ -1,12 +1,12 @@
 ![](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 ### <p align="center"> Hi there 👋, I'm Abdelali </p>
 ### <p align="center"> A passionate self-taught developer </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=3d5a80&style=flat" alt="abdelali77" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=011627&style=flat" alt="abdelali77" /> </p>
 
 <hr />
 
 <!-- ![A passionate self-taught developer]() -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/665679739549384704?theme=dark&animated=true&hideDiscrim=true&bg=3d5a80)](https://discord.com/users/665679739549384704)
+[![Discord Presence](https://lanyard.cnrad.dev/api/665679739549384704?theme=dark&animated=true&hideDiscrim=true&bg=011627)](https://discord.com/users/665679739549384704)
 <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelali77&theme=onestar" alt="abdelali77" /></a> </p>
 
