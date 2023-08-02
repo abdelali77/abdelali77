@@ -10,15 +10,12 @@
 <h3 align="left">TROPHIES</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelali77&theme=onestar" alt="abdelali77" /></a> </p>
 
-<h3 align="left">DEVELOPMENT</h3>
-
-<hr/>
-
+<a href=""><h3 align="left">DEVELOPMENT</h3></a>
 <a href="https://skillicons.dev">
     <img align="left" src="https://skillicons.dev/icons?i=js" /><img align="left" src="https://skillicons.dev/icons?i=ts" /><img align="left" src="https://skillicons.dev/icons?i=c" />
     <img align="left" src="https://skillicons.dev/icons?i=bash" /> <img align="left" src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-
+  
 <h3 align="left">STATISTICS</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&locale=en&theme=dark" alt="abdelali77" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali77&langs_count=8&theme=dark" />
