@@ -11,6 +11,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelali77&theme=onestar" alt="abdelali77" /></a> </p>
 
 <h3 align="left">DEVELOPMENT</h3>
+
+<hr/>
+
 <a href="https://skillicons.dev">
     <img align="left" src="https://skillicons.dev/icons?i=js" /><img align="left" src="https://skillicons.dev/icons?i=ts" /><img align="left" src="https://skillicons.dev/icons?i=c" />
     <img align="left" src="https://skillicons.dev/icons?i=bash" /> <img align="left" src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=vscode" />
