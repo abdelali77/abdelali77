@@ -4,7 +4,7 @@
 <hr />
 
 <!-- ![A passionate self-taught developer]() -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/665679739549384704?theme=dark&animated=true&hideDiscrim=true&bg=036666)](https://discord.com/users/665679739549384704)
+[![Discord Presence](https://lanyard.cnrad.dev/api/665679739549384704?theme=dark&animated=true&hideDiscrim=true&bg=#151515)](https://discord.com/users/665679739549384704)
 ## TROPHIES
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelali77&theme=onestar" alt="abdelali77" /></a> </p>
 
