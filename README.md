@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=1000&color=036666&background=C25EFF00&center=true&width=435&lines=Hey%2C+I'm+Abdelali)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3500&pause=300&color=036666&center=true&width=435&lines=Hey+I'm+Abdelali;JavaScript+Developer)](https://git.io/typing-svg)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=036666&style=flat" alt="abdelali77" /> </p>
 
 <hr />
