@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3500&pause=300&color=036666&center=true&width=435&lines=Hey+I'm+Abdelali;JavaScript+Developer)](https://git.io/typing-svg)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=036666&style=flat" alt="abdelali77" /> </p>
 
+<hr/>
 
 <!-- ![A passionate self-taught developer]() -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/665679739549384704?theme=dark&animated=true&hideDiscrim=true&bg=#151515)](https://discord.com/users/665679739549384704)
