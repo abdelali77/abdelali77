@@ -8,6 +8,9 @@
 <a href="mailto:albatross1.off@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000"">
 </a>
+<a href="https://twitter.com/abdelali_js">
+    <img src="https://img.shields.io/badge/-X-000?style=flat&logo=X&logoColor=fff&labelColor=000"">
+</a>
 
 ## DEVELOPMENT
 <a href="https://skillicons.dev">
