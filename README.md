@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3500&pause=300&color=E20338&center=true&width=435&lines=Hey+I'm+Abdelali;Full+Stack+Developer)](https://git.io/typing-svg)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelali77&label=Profile%20views&color=E20338&style=flat" alt="abdelali77" /> </p>
 
 <hr/>
 <a href="https://discord.com/users/665679739549384704">
