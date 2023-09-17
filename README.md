@@ -14,7 +14,7 @@
 ## DEVELOPMENT
 <a href="https://skillicons.dev">
     <img align="left" src="https://skillicons.dev/icons?i=js" /> <img align="left" src="https://skillicons.dev/icons?i=nodejs" /> <img align="left" src="https://skillicons.dev/icons?i=ts" /><img align="left" src="https://skillicons.dev/icons?i=c" />
-    <img align="left" src="https://skillicons.dev/icons?i=bash" /> <img src="https://skillicons.dev/icons?i=vscode" />
+    <img align="left" src="https://skillicons.dev/icons?i=bash" /> <img align="left" src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=git" />
   </a>
   
 ## STATS
