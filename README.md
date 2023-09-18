@@ -13,8 +13,8 @@
 
 ## DEVELOPMENT
 <a href="https://skillicons.dev">
-    <img width="40" height="40" align="left" src="https://skillicons.dev/icons?i=js" /> <img width="40" height="40" align="left" src="https://skillicons.dev/icons?i=nodejs" /> <img width="40" height="40" align="left" src="https://skillicons.dev/icons?i=ts" /><img width="40" height="40" align="left" src="https://skillicons.dev/icons?i=c" />
-    <img width="40" height="40" align="left" src="https://skillicons.dev/icons?i=bash" /> <img width="40" height="40" align="left" src="https://skillicons.dev/icons?i=vscode" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=git" />
+    <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=js" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=nodejs" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=ts" /><img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=c" />
+    <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=bash" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=vscode" /> <img width="35" height="35" src="https://skillicons.dev/icons?i=git" />
   </a>
   
 ## STATS
