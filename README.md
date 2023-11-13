@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3500&pause=300&color=E20338&center=true&width=435&lines=Hey+I'm+Abdelali)](https://git.io/typing-svg)
 
 <hr/>
+
+## SOCIAL
 <a href="https://discord.com/users/665679739549384704">
     <img src="https://img.shields.io/badge/-Discord-000?style=flat&logo=Discord&logoColor=7289da&labelColor=000">
 </a>
