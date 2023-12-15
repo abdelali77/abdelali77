@@ -9,7 +9,7 @@
 <a href="mailto:albatross1.off@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000"">
 </a>
-<a href="https://twitter.com/abdelali_js">
+<a href="https://twitter.com/_klez_1">
     <img src="https://img.shields.io/badge/-X-000?style=flat&logo=X&logoColor=fff&labelColor=000"">
 </a>
 
