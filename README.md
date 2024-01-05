@@ -2,9 +2,11 @@
 
 <hr/>
 
+<p align="center">
 <a href="https://github.com/oakoudad/badge42" align="left">
-    <img src="https://badge.mediaplus.ma/binary/abmahfou" alt="abmahfou's 42 stats" style="width:600px"/>
+    <img src="https://badge.mediaplus.ma/binary/abmahfou" alt="abmahfou's 42 stats" width=60% display=block"/>
 </a>
+</p>
 
 ## SOCIAL
 
