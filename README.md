@@ -1,14 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3500&pause=300&color=E20338&center=true&width=435&lines=.-+-...+-..+.+.-..+.-+.-..+..)](https://git.io/typing-svg)
+
 <hr/>
+
 <a href="https://github.com/oakoudad/badge42" align="left">
-    <img src="https://badge.mediaplus.ma/binary/abmahfou" alt="abmahfou's 42 stats" style=""/>
+    <img src="https://badge.mediaplus.ma/binary/abmahfou" alt="abmahfou's 42 stats" style="width:600px"/>
 </a>
+
 ## SOCIAL
+
 <a href="mailto:albatross1.off@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000"">
 </a>
 <a href="https://twitter.com/_klez_1">
     <img src="https://img.shields.io/badge/-X-000?style=flat&logo=X&logoColor=fff&labelColor=000"">
+</a>
+</a>
+<a href="https://discord.com/users/665679739549384704">
+    <img src="https://img.shields.io/badge/-discord-000?style=flat&logo=discord&logoColor=fff&labelColor=000"">
 </a>
 
 ## DEVELOPMENT
