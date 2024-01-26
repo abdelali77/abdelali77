@@ -18,7 +18,7 @@
 </a>
 </a>
 <a href="https://discord.com/users/665679739549384704">
-    <img src="https://img.shields.io/badge/-discord-000?style=flat&logo=discord&logoColor=fff&labelColor=000"">
+    <img src="https://img.shields.io/badge/-discord-000?style=flat&logo=discord&logoColor=5865F2&labelColor=000"">
 </a>
 
 ## DEVELOPMENT
