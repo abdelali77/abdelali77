@@ -2,12 +2,6 @@
 
 <hr/>
 
-<p align="center">
-<a href="https://github.com/oakoudad/badge42" align="left">
-    <img src="https://badge.mediaplus.ma/binary/abmahfou" alt="abmahfou's 42 stats" width=50% display=block"/>
-</a>
-</p>
-
 ## SOCIAL
 
 <a href="mailto:albatross1.off@gmail.com">
