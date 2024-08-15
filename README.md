@@ -7,10 +7,6 @@
 <a href="mailto:albatross1.off@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000"">
 </a>
-<a href="https://twitter.com/_klez_1">
-    <img src="https://img.shields.io/badge/-X-000?style=flat&logo=X&logoColor=fff&labelColor=000"">
-</a>
-</a>
 <a href="https://discord.com/users/665679739549384704">
     <img src="https://img.shields.io/badge/-discord-000?style=flat&logo=discord&logoColor=5865F2&labelColor=000"">
 </a>
