@@ -2,7 +2,7 @@
 
 <hr/>
 
-## SOCIAL
+<h3> SOCIAL </h3>
 
 <a href="mailto:albatross1.off@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000"">
@@ -11,12 +11,13 @@
     <img src="https://img.shields.io/badge/-discord-000?style=flat&logo=discord&logoColor=5865F2&labelColor=000"">
 </a>
 
-## DEVELOPMENT
+<h3> DEVELOPMENT </h3>
+
 <a href="https://skillicons.dev">
     <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=js" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=nodejs" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=ts" /><img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=c" />
     <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=bash" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=vscode" /> <img width="35" height="35" src="https://skillicons.dev/icons?i=git" />
   </a>
 
-## STATS
+<h3>STATS</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali77&layout=compact&langs_count=8&bg_color=000&icon_color=495057&border_radius=15&hide_border=true&text_color=fff&hide_title=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&hide_title=true&title_color=FFF&bg_color=000&icon_color=6c757d&text_color=E20338&border_radius=10&hide_border=true" width=400 alt="abdelali77" />
