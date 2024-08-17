@@ -4,7 +4,7 @@
 
 <h3> Social </h3>
 
-<a href="mailto:albatross1.off@gmail.com">
+<a href="mailto:kl3z.off@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000">
 </a>
 <a href="https://discord.com/users/665679739549384704">
