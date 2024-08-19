@@ -2,6 +2,12 @@
 
 <hr/>
 
+<div align="center">
+<a href="https://tryhackme.com/signup?referrer=66a031689d7bcba3f6042f67">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kl3z.png" alt="TryHackMe">
+</a>
+</div>
+
 <h3> Social </h3>
 
 <a href="mailto:kl3z.off@gmail.com">
@@ -10,6 +16,7 @@
 <a href="https://discord.com/users/665679739549384704">
     <img src="https://img.shields.io/badge/-discord-000?style=flat&logo=discord&logoColor=5865F2&labelColor=000">
 </a>
+
 
 <h3> Development </h3>
 
