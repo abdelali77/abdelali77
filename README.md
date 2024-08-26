@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3500&pause=300&color=E20338&center=true&width=435&lines=-.-+.-..+.+--..)](https://git.io/typing-svg)
 ##
-<div align="center">
-<a href="https://tryhackme.com/signup?referrer=66a031689d7bcba3f6042f67">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/kl3z.png">
-</a>
-</div>
 <h3> Social </h3>
 
 <a href="mailto:kl3z.off@gmail.com">
