@@ -3,7 +3,7 @@
 
 <div align="center">
     <a href="https://tryhackme.com/signup?referrer=66a031689d7bcba3f6042f67">
-       <img src="https://tryhackme-badges.s3.amazonaws.com/kl3z.png" alt="TryHackMe">
+       <img src="https://tryhackme-badges.s3.amazonaws.com/kl3z.png" alt="Your Image Badge" />
     </a>
 </div>
 
