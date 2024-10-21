@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Butcherman&size=36&duration=3500&pause=300&color=E20338&center=true&width=435&lines=kl3z)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=3500&pause=300&color=E20338&center=true&width=435&lines=kl3z)](https://git.io/typing-svg)
 ##
 
 <div align="center">
