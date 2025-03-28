@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E20338&height=80&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=80&section=header)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=3500&pause=300&color=E20338&center=true&width=435&lines=kl3z)](https://git.io/typing-svg)
 <div align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l3eDI2b3cxYjBua254aXBsaHhtdHc3dmZuZTlpdDVteGdiMXp1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" >
@@ -37,4 +37,4 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali77&layout=compact&langs_count=8&bg_color=000&icon_color=495057&border_radius=15&hide_border=true&text_color=fff&hide_title=true" />
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=E20338&height=80&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=80&section=footer)
