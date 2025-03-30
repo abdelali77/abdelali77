@@ -6,7 +6,6 @@
 
 ##
 
-
 <h3> Social </h3>
 <a href="mailto:kl3z.off@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000">
@@ -22,13 +21,6 @@
     <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=js" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=nodejs" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=ts" /><img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=c" />
     <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=bash" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=vscode" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=git" /> <img width="35" height="35" src="https://skillicons.dev/icons?i=linux" />
   </a>
-
-<h3> Badges </h3>
-<div>
-    <a href="https://tryhackme.com/signup?referrer=66a031689d7bcba3f6042f67">
-       <img width="250" length="40" src="https://tryhackme-badges.s3.amazonaws.com/kl3z.png" alt="Your Image Badge" />
-    </a>
-</div>
 
 <h3> Stats </h3>
 
