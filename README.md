@@ -8,7 +8,7 @@
 
 <h3> Social </h3>
 <a href="mailto:kl3z.off@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000">
+    <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000" align="left">
 </a>
 <a href="https://discord.com/users/665679739549384704">
     <img src="https://img.shields.io/badge/-discord-000?style=flat&logo=discord&logoColor=5865F2&labelColor=000">
@@ -18,8 +18,9 @@
 <h3> Development </h3>
 
 <a href="https://skillicons.dev">
-    <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=js" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=nodejs" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=ts" /><img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=c" />
-    <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=bash" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=vscode" /> <img width="35" height="35" align="left" src="https://skillicons.dev/icons?i=git" /> <img width="35" height="35" src="https://skillicons.dev/icons?i=linux" />
+    <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=js" /> <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=nodejs" /> <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=ts" /><img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=c" />
+    <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=bash" /> <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=vscode" /> <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=git" /> <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=linux" />
+    <img width="30" height="30" src="https://skillicons.dev/icons?i=vim" />
   </a>
 
 <h3> Stats </h3>
