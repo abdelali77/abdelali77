@@ -14,14 +14,23 @@
     <img src="https://img.shields.io/badge/-discord-000?style=flat&logo=discord&logoColor=5865F2&labelColor=000">
 </a>
 
+#### Languages:
+<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=js" />
+<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=cpp" />
+<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=ts" />
+<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=c" />
+<br/>  
 
-<h3> Development </h3>
+#### Frameworks/Platforms:
+<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=nodejs" />
+<br/> 
 
-<a href="https://skillicons.dev">
-    <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=js" /> <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=nodejs" /> <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=ts" /><img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=c" />
-    <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=bash" /> <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=vscode" /> <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=git" /> <img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=linux" />
-    <img width="30" height="30" src="https://skillicons.dev/icons?i=vim" />
-  </a>
+#### Tools:
+<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=vscode" />
+<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=git" />
+<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=linux" />
+<img width="30" height="30" src="https://skillicons.dev/icons?i=vim" />
+<br/ >
 
 <h3> Stats </h3>
 
