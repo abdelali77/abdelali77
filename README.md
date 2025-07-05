@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=80&section=header)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=3500&pause=300&color=E20338&center=true&width=435&lines=kl3z)](https://git.io/typing-svg)
 <div align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l3eDI2b3cxYjBua254aXBsaHhtdHc3dmZuZTlpdDVteGdiMXp1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" >
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVnOHJ1cmUwNTc1MHYydWdjczUxMnRoaGNmaG1za2NrMzBlNGNobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" >
 </div>
 
 ##
