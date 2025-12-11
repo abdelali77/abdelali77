@@ -35,8 +35,8 @@
 <h3> Stats </h3>
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=abdelali77&show_icons=true&hide_title=true&title_color=FFF&bg_color=000&icon_color=6c757d&text_color=E20338&border_radius=10&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali77&layout=compact&langs_count=8&bg_color=000&icon_color=495057&border_radius=15&hide_border=true&text_color=fff&hide_title=true" />
+<img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=abdelali77&show_icons=true&hide_title=true&title_color=FFF&bg_color=000&icon_color=6c757d&text_color=E20338&border_radius=15&hide_border=true" />
+<img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdelali77&layout=compact&langs_count=8&bg_color=000&icon_color=495057&border_radius=15&hide_border=true&text_color=fff&hide_title=true" />
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=80&section=footer)
