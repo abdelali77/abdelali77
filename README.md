@@ -1,10 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=80&section=header)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=3500&pause=300&color=E20338&center=true&width=435&lines=m4rsh4l)](https://git.io/typing-svg)
-<div align="center">
-    <img src="https://media.discordapp.net/attachments/1102948634493984769/1394660059476136016/b00c92e2a04a1ce04e31ff53205bad4f.gif?ex=68779de5&is=68764c65&hm=afe483657b85d33dfece3e586e26fc7dad8e9db68283158e488c299d805cfef5&=" style="width:300px;height:200px">
-</div>
 
-##
+```console
+$ whoami █
+abdelali
+
+$ id █
+uid=1000(abdelali) gid=1000(abdelali) groups=1000(abdelali),27(sudo),1001(dev)
+
+$ echo "$ROLE" █
+software engineering student
+
+$ echo "$FOCUS" █
+system programming / cybersecurity
+
+$ ls █
+Languages.txt  README.md
+
+$ cat Languages.txt █
+- C / C++
+- Bash
+- Linux internals
+- Javascript
+- Typescript
+
+$ exit █
+logout
+
+```
 
 <h3> Social </h3>
 <a href="mailto:kl3z.off@gmail.com">
@@ -13,24 +36,6 @@
 <a href="https://discord.com/users/665679739549384704">
     <img src="https://img.shields.io/badge/-discord-000?style=flat&logo=discord&logoColor=5865F2&labelColor=000">
 </a>
-
-#### Languages:
-<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=js" />
-<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=cpp" />
-<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=ts" />
-<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=c" />
-<br/>  
-
-#### Frameworks/Platforms:
-<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=nodejs" />
-<br/> 
-
-#### Tools:
-<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=vscode" />
-<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=git" />
-<img width="30" height="30" align="left" src="https://skillicons.dev/icons?i=linux" />
-<img width="30" height="30" src="https://skillicons.dev/icons?i=vim" />
-<br/ >
 
 <h3> Stats </h3>
 
