@@ -9,20 +9,22 @@ $ id █
 uid=1000(abdelali) gid=1000(abdelali) groups=1000(abdelali),27(sudo),1001(dev)
 
 $ echo "$ROLE" █
-software engineering student
+software engineering student / Jr Penetration Tester
 
 $ echo "$FOCUS" █
 system programming / cybersecurity
 
 $ ls █
-Languages.txt  README.md
+Languages.txt Frameworks.txt README.md
 
 $ cat Languages.txt █
 - C / C++
 - Bash
-- Linux internals
 - Javascript
 - Typescript
+
+$ cat Frameworks.txt
+- node.js
 
 $ exit █
 logout
