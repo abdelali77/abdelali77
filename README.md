@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=80&section=header)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=3500&pause=300&color=E20338&center=true&width=435&lines=m4rsh4l)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=3500&pause=300&color=E20338&center=true&width=435&lines=4bd3l4l1)](https://git.io/typing-svg)
 
 ```console
 $ whoami █
-abdelali
+4bd3l4l1
 
 $ id █
 uid=1000(abdelali) gid=1000(abdelali) groups=1000(abdelali),27(sudo),1001(dev)
@@ -22,6 +22,7 @@ $ cat Languages.txt █
 
 $ cat Frameworks.txt
 - node.js
+- express
 
 $ exit █
 logout
