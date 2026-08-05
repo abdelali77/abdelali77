@@ -2,29 +2,36 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=3500&pause=300&color=E20338&center=true&width=435&lines=4bd3l4l1)](https://git.io/typing-svg)
 
 ```console
-$ whoami █
+┌──(4bd3l4l1㉿github)-[~]
+└─$ whoami
 4bd3l4l1
 
-$ id █
+┌──(4bd3l4l1㉿github)-[~]
+└─$ id
 uid=1000(abdelali) gid=1000(abdelali) groups=1000(abdelali),27(sudo),1001(dev)
 
-$ echo "$ROLE" █
+┌──(4bd3l4l1㉿github)-[~]
+└─$ echo $ROLE
 software engineering student / Jr Penetration Tester
 
-$ ls █
+┌──(4bd3l4l1㉿github)-[~]
+└─$ ls
 Languages.txt Frameworks.txt README.md
 
-$ cat Languages.txt █
+┌──(4bd3l4l1㉿github)-[~]
+└─$ cat Languages.txt
 - C / C++
 - Bash
 - Javascript
 - Typescript
 
-$ cat Frameworks.txt
+┌──(4bd3l4l1㉿github)-[~]
+└─$ cat Frameworks.txt
 - node.js
 - express
 
-$ exit █
+┌──(4bd3l4l1㉿github)-[~]
+└─$ exit
 logout
 
 ```
